@@ -1,0 +1,188 @@
+<mxfile>
+  <diagram>
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="40" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="Renovation Project" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="40" width="200" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="40" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="Approval Process" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9900" parent="1" vertex="1">
+          <mxGeometry x="90" y="150" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="Rejected" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333" parent="1" vertex="1">
+          <mxGeometry x="300" y="170" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="Approved" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33CC33" parent="1" vertex="1">
+          <mxGeometry x="470" y="170" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="Begin Renovation" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="170" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="Review Budget" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="300" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="12" value="Budget Approved?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF9900" parent="1" vertex="1">
+          <mxGeometry x="90" y="420" width="150" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="13" value="No Funds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FF3333" parent="1" vertex="1">
+          <mxGeometry x="300" y="440" width="100" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="14" value="Sufficient Funds" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#33CC33" parent="
+<mxCell id="15" value="Submit Request" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="590" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="16" value="Review Request" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="820" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="17" value="Approve Request" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="1050" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="18" value="Assign Project Manager" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="1280" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="19" value="Conduct Site Visit" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="1510" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="20" value="Prepare Quotation" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="1740" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="21" value="Submit Quotation" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="1970" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="22" value="Review Quotation" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="2200" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="23" value="Approve Quotation" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="2430" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="24" value="Procurement" style="rhombus;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="2660" y="780" width="100" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="25" value="Renovation Works" style="rectangle;fillColor=#ffffff;strokeColor=#000000;" parent="14" vertex="1">
+  <mxGeometry x="2990" y="730" width="120" height="200" as="geometry"/>
+</mxCell>
+<mxCell id="26" value="Project Completion" style="rhombus;fillColor=#ffffff
+<mxCell id="9" value="2. Evaluate Scope of Work" style="rhombus;fillColor=#FFC107;rounded=1;" parent="1">
+    <mxGeometry x="560" y="300" width="120" height="80" as="geometry"/>
+</mxCell>
+<mxCell id="10" value="3. Develop Project Plan &amp; Timeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#8BC34A" parent="1">
+    <mxGeometry x="440" y="520" width="160" height="80" as="geometry"/>
+</mxCell>
+<mxCell id="11" value="4. Obtain Approval &amp; Budget" style="ellipse;fillColor=#FFC107;rounded=1;" parent="1">
+    <mxGeometry x="620" y="520" width="120" height="80" as="geometry"/>
+</mxCell>
+<mxCell id="12" value="5. Commence Renovation Work" style="rectangle;fillColor=#2196F3;rounded=1;" parent="1">
+    <mxGeometry x="820" y="440" width="140" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="13" value="6. Monitor Progress of Renovation" style="ellipse;fillColor=#FFC107;rounded=1;" parent="1">
+    <mxGeometry x="1020" y="520" width="160" height="80" as="geometry"/>
+</mxCell>
+<mxCell id="14" value="7. Handover Renovated Space" style="rhombus;fillColor=#4CAF50;rounded=1;" parent="1">
+    <mxGeometry x="1220" y="440" width="140" height="100" as="geometry"/>
+</mxCell>
+<mxCell id="15" value="8. Close-out Project" style="rectangle;fillColor=#FFC107;rounded=1;" parent="1">
+    <mxGeometry x="1420" y="520" width="120" height="80" as="geometry"/>
+</mxCell>
+<mxCell id="16" value="Project Completed" style="ellipse;fillColor=#8BC34A;rounded=1;" parent="1">
+    <mxGeometry x="1620" y="440" width="120" height="80" as="geometry"/>
+</mxCell>
+<mxCell id="17" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonal=0;jettySize=auto;html=1;" parent="1" source="2" target="3">
+    <mxGeometry relative="1" as="geometry"/>
+</mxCell>
+<mxCell id="18" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonal=0;jettySize=auto;html=1;" parent="1" source="3" target="4">
+    <mxGeometry relative="1" as="geometry"/>
+</mxCell>
+<mxCell id="19" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonal=0;jettySize=auto;html=1;" parent="1" source="4" target="5">
+    <mxGeometry relative="1" as="geometry"/>
+</mxCell>
+<mxCell id="20" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonal=0;jettySize=auto;html
+<mxfile host="www.draw.io" modified="2022-05-16T17:58:06.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="T6FToJ6LcUoqhP8Kv9Rd" version="14.7.3" type="device">
+  <diagram id="NrJMs71q3y8Jv9uhO5tr" name="Renovation Works SOP">
+    <mxGraphModel dx="852" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="D4rhM5g4m4_E10Ht2-Cb-8" value="Renovation Works SOP" style="text;strokeColor=#000000;align=center;verticalAlign=middle;fontSize=22;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="30" width="300" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="RRVhZuO8O1V7IuHfz-01-8" value="Purpose" style="text;strokeColor=#000000;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="110" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="cBEfRvKObtCwNtN5q-3L-8" value="To ensure effective and efficient management of renovation works in the university in compliance with relevant regulations and policies." style="text;strokeColor=#000000;align=left;verticalAlign=middle;fontSize=14;fontStyle=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="110" width="600" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="HYlR7enXaZqvliOFjNmq-8" value="Scope" style="text;strokeColor=#000000;align=center;verticalAlign=middle;fontSize=16;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="j-j--FGH0cJopBvXgs0G-8" value="This SOP applies to all renovation works projects carried out in the university." style="text;strokeColor=#000000;align=left;verticalAlign=middle;fontSize=14;fontStyle=0;" parent="1" vertex="1">
+          <mxGeometry x="220" y="180" width="600" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IrxNtOUvBlzfjNaaZAXa-8" value="Policy" style="
+<mxfile>
+  <diagram>
+    <mxGraphModel>
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="2" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1">
+          <mxGeometry x="110" y="60" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="Project Management for Renovation Works" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;resizable=0;html=1;rounded=0;" parent="1">
+          <mxGeometry x="260" y="70" width="300" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="4" value="Policy" style="text;strokeColor=#ffffff;fillColor=#004c97;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="165" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="5" value="Meta Data" style="text;strokeColor=#ffffff;fillColor=#004c97;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="165" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="6" value="Purpose" style="text;strokeColor=#ffffff;fillColor=#004c97;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="165" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="7" value="Scope" style="text;strokeColor=#ffffff;fillColor=#004c97;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="165" width="90" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="8" value="Responsibilities" style="text;strokeColor=#ffffff;fillColor=#004c97;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="165" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="9" value="Definitions" style="text;strokeColor=#ffffff;fillColor=#004c97;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="165" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="10" value="Procedure" style="text;strokeColor=#ffffff;fillColor=#004c97;fontSize=14;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="165" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="11" value="Effectiveness" style="text;strokeColor=#ffffff;fillColor=#004c97;fontSize=14
+<mxCell id="24" value="Notify stakeholders of completion" style="end;fillColor=#FA8072;" parent="22" vertex="1">
+  <mxGeometry x="1160" y="1090" width="200" height="50" as="geometry"/>
+</mxCell>
+<mxCell id="25" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;startArrow=none;" parent="22" source="14" target="24" edge="1">
+  <mxGeometry relative="1" as="geometry"/>
+</mxCell>
+<mxCell id="26" value="Close project" style="end;fillColor=#FA8072;" parent="22" vertex="1">
+  <mxGeometry x="840" y="1090" width="200" height="50" as="geometry"/>
+</mxCell>
+<mxCell id="27" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;startArrow=none;" parent="22" source="12" target="26" edge="1">
+  <mxGeometry relative="1" as="geometry"/>
+</mxCell>
+<mxCell id="28" value="Obtain feedback from stakeholders" style="fillColor=#FFFFE0;" parent="22" vertex="1">
+  <mxGeometry x="1020" y="840" width="200" height="50" as="geometry"/>
+</mxCell>
+<mxCell id="29" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;startArrow=none;" parent="22" source="18" target="28" edge="1">
+  <mxGeometry relative="1" as="geometry"/>
+</mxCell>
+<mxCell id="30" value="Update project report" style="fillColor=#FFFFE0;" parent="22" vertex="1">
+  <mxGeometry x="1020" y="990" width="200" height="50" as="geometry"/>
+</mxCell>
+<mxCell id="31" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=none;startArrow=none;" parent="22" source="20" target="30" edge="1">
+  <mxGeometry relative="1" as="geometry"/>
+</mxCell>
+</mxGraphModel>
+</diagram>
+</mxfile>

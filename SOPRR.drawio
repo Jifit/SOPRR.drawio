@@ -124,7 +124,8 @@
         <mxCell id="j-j--FGH0cJopBvXgs0G-8" value="This SOP applies to all renovation works projects carried out in the university." style="text;strokeColor=#000000;align=left;verticalAlign=middle;fontSize=14;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="220" y="180" width="600" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="IrxNtOUvBlzfjNaaZAXa-8" value="Policy" style="
+       <mxCell id="IrxNtOUvBlzfjNaaZAXa-8" value="Policy" style="shape=ellipse;whiteSpace=wrap;html=1;fillColor=#E6B8B7;strokeColor=#BC0E0E;strokeWidth=2;fontStyle=0;fontSize=14;fontColor=#000000;align=center;verticalAlign=middle;spacing=10;" parent="1">
+  <mxGeometry x="50" y="150" width="80" height="40" as="geometry"/>
 <mxfile>
   <diagram>
     <mxGraphModel>

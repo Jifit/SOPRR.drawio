@@ -102,7 +102,7 @@
 <mxCell id="19" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonal=0;jettySize=auto;html=1;" parent="1" source="4" target="5">
     <mxGeometry relative="1" as="geometry"/>
 </mxCell>
-<mxCell id="20" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonal=0;jettySize=auto;html
+<mxCell id="20" value="" style="edgeStyle=elbowEdgeStyle;rounded=1;orthogonal=0;jettySize=auto;html=1;" parent="1" source="5" target="6">
 <mxfile host="www.draw.io" modified="2022-05-16T17:58:06.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="T6FToJ6LcUoqhP8Kv9Rd" version="14.7.3" type="device">
   <diagram id="NrJMs71q3y8Jv9uhO5tr" name="Renovation Works SOP">
     <mxGraphModel dx="852" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff">
